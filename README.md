@@ -43,3 +43,6 @@ Privacy and consent concerns
 Potential for stigmatization
 Generalizability of findings
 Possible rebel effect due to technology tracking
+
+
+_In this research proposal, I led the conceptualization and design of the SobriVu smart glasses intervention for addressing problematic drinking among college students. I conducted extensive literature reviews to establish the theoretical framework based on the Theory of Reasoned Action and to incorporate evidence-based motivational interviewing techniques. I developed the innovative approach of integrating wearable technology with behavioral interventions and social media exposure. Additionally, I designed the comprehensive evaluation plan, including the randomized controlled trial methodology, data collection protocols, and statistical analysis strategies. I also carefully considered and addressed potential ethical concerns and limitations of the study. Throughout the process, I collaborated with team members to refine the technological specifications of the smart glasses and ensure the feasibility of implementing the proposed interventions._
