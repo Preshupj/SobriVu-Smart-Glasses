@@ -4,8 +4,9 @@
 Problematic drinking among college students remains a significant health issue in the United States, with high rates of alcohol consumption leading to various adverse outcomes, including injuries, assaults, and academic difficulties.
 
 **Proposed Solution: SobriVu Smart Glasses**
-SobriVu smart glasses are an innovative wearable technology designed to address problematic drinking among college students. Key features include:
+SobriVu smart glasses are an innovative wearable technology designed to address problematic drinking among college students. 
 
+**_Key features include:_**
 Alcohol intake tracking
 Interactive motivational interviewing (MI) through text-based messages
 Visual exposure to social media images normalizing sobriety
